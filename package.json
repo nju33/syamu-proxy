@@ -1,6 +1,6 @@
 {
   "name": "syamu-proxy",
-  "version": "0.0.0-pre",
+  "version": "0.0.0",
   "main": "dist/shamu-proxy.js",
   "umd:main": "dist/shamu-proxy.umd.js",
   "module": "dist/shamu-proxy.m.js",
