@@ -1,0 +1,30 @@
+{
+  "name": "syamu-proxy",
+  "version": "0.0.0-pre",
+  "main": "dist/shamu-proxy.js",
+  "umd:main": "dist/shamu-proxy.umd.js",
+  "module": "dist/shamu-proxy.m.js",
+  "source": "src/syamu-proxy.js",
+  "repository": "ju33/syamu",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "filees": [
+    "dist"
+  ],
+  "keywords": [
+    "syamu_game",
+    "youtuber"
+  ],
+  "scripts": {
+    "prepare": "yarn build",
+    "build": "microbundle",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-xo": "^0.25.0",
+    "eslint-plugin-jest": "^21.22.0",
+    "jest": "^23.5.0",
+    "microbundle": "^0.6.0"
+  }
+}
