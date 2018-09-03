@@ -3,7 +3,7 @@
 
 ![npm](https://img.shields.io/npm/v/syamu-proxy.svg)
 [![CircleCI](https://circleci.com/gh/nju33/syamu-proxy.svg?style=svg&circle-token=bded2c58c08c7c5efa0b8a7341ab95df68b0e153)](https://circleci.com/gh/nju33/syamu-proxy)
-[![donate](https://badgen.net/badge/Donate%20via%20PayPal/100円/169bd7)](https://www.paypal.me/nju33/)
+[![donate](https://badgen.net/badge/Donate%20via%20PayPal/100円/169bd7)](https://www.paypal.me/nju33/100)
 
 ## Install
 
